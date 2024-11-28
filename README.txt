@@ -8,8 +8,6 @@ MANUEL SANTOS MÁRQUEZ - TABLA CLIENTES
 
 
 Este es nuestro proyecto de HLC.
-Enlace a GitHub: 
+Enlace a GitHub: https://github.com/ManoloDisaronnor/FinexpertPHP
 
-El alojamiento Web es este: http://finexpert.great-site.net/FORMULARIO/formularios.html
-
-(para ir directamente al formulario, si no puedes usar este: http://finexpert.great-site.net y navegar desde el menu)
+El alojamiento Web es este: http://finexpertphp.great-site.net
